@@ -4,6 +4,8 @@ A simple braintree server built in NodeJS with express framework and using the B
 # Setup instructions
 Install the packages from the package-json file by typing into terminal: 'npm install'
 
+Make sure to create a .env file with your gateway credentials in it. An example is provided ('example.env').
+
 # Start the server
 Start the server by typing into terminal: 'node app.js'
 
