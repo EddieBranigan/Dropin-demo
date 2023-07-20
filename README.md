@@ -2,8 +2,12 @@
 A simple braintree server built in NodeJS with express framework and using the Braintree drop-in integration.
 
 # Setup instructions
-Install the packages from the package-json file by typing:
-'''npm install'''
+Install the packages from the package-json file by typing into terminal:
+'''npm install
+
+# Start the server
+Start the server by typing into terminal:
+''node app.js
 
 # Testing
 Testing in the Braintree sandbox environment can be done using testing card numbers provided in the Braintree developer docs located here:
