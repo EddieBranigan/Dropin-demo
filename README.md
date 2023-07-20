@@ -1,15 +1,15 @@
 # Dropin-demo
 A simple braintree server built in NodeJS with express framework and using the Braintree drop-in integration.
 
-# Setup instructions
+## Setup instructions
 Install the packages from the package-json file by typing into terminal: 'npm install'
 
 Make sure to create a .env file with your gateway credentials in it. An example is provided ('example.env').
 
-# Start the server
+## Start the server
 Start the server by typing into terminal: 'node app.js'
 
-# Testing
+## Testing
 Testing in the Braintree sandbox environment can be done using testing card numbers provided in the Braintree developer docs located here:
 https://developer.paypal.com/braintree/docs/reference/general/testing/ruby#credit-card-numbers
 
