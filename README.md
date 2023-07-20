@@ -18,7 +18,7 @@ node app.js
 ## Testing
 Testing in the Braintree sandbox environment can be done using testing card numbers provided in the [Braintree developer docs located here](https://developer.paypal.com/braintree/docs/reference/general/testing/node#valid-card-numbers).
 
-NOTE:
+**NOTE:**
 When testing card verifications and transactions, keep in mind:
 
 - Transaction success is determined by the test amount you use. For example, when testing decline scenarios.
