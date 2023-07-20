@@ -16,5 +16,8 @@ https://developer.paypal.com/braintree/docs/reference/general/testing/ruby#credi
 NOTE:
 When testing card verifications and transactions, keep in mind:
 
-“*” Transaction success is determined by the test amount you use. For example, when testing decline scenarios.
-“*” Verification success is determined by the test card number you use. For example, when testing Vault and recurring billing scenarios.
+“*” Transaction success is determined by the test amount you use. For example, when testing decline scenarios.“*”
+“*” Verification success is determined by the test card number you use. For example, when testing Vault and recurring billing scenarios.“*”
+
+## Disclaimer
+This repository is for illustrative purposes only and shouldn't be used directly in a live environment.
